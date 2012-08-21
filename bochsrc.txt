@@ -1,0 +1,7 @@
+megs: 256
+romimage: file=$BXSHARE/BIOS-bochs-latest
+vgaromimage: file= $BXSHARE/VGABIOS-lgpl-latest
+floppya: 1_44=D:\Entwicklung\osdev\floppy.img, status=inserted
+boot: a
+mouse: enabled=0
+clock: sync=realtime
